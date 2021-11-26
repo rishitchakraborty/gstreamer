@@ -7,7 +7,7 @@ Hi everyone! Today I'm going to be giving you a crash course in video processing
 If you fall behind at any point during the live presentation, don't worry! I have a text version of this talk available with the same content and more. There should be a link in the description.
 
 
-gstreamer dependencies (Ubuntu)
+# gstreamer dependencies (Ubuntu)
 
 sudo apt-get install -y libgstreamer1.0-0 \
             gstreamer1.0-plugins-base \
