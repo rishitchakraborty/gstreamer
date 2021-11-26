@@ -35,3 +35,15 @@ sudo apt-get install -y libgstreamer1.0-0 \
 
 
 sudo apt install libgstreamer1.0-0 gstreamer1.0-plugins-{base,good,bad,ugly} gstreamer1.0-tools python3-gi gir1.2-gstreamer-1.0
+
+# Links 
+
+http://manpages.ubuntu.com/manpages/bionic/en/man1/gst-play-1.0.1.html
+
+https://www.endpointdev.com/blog/2021/04/gstreamer-nvenc-for-ubuntu-20-04/
+
+https://gstreamer.freedesktop.org/
+
+https://gstreamer.freedesktop.org/documentation/tutorials/?gi-language=c
+
+
